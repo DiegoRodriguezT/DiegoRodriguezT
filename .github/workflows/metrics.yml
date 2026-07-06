@@ -1,0 +1,29 @@
+name: GitHub Metrics
+on:
+  # Actualiza el gráfico automáticamente cada 24 horas a medianoche
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite ejecutar la action manualmente desde la pestaña "Actions"
+  workflow_dispatch:
+  # Opcional: ejecuta la action cada vez que hagas un push al README
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # El token que acabas de crear en los secrets del repositorio
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Configuración base idéntica a la que probamos
+          user: DiegoRodriguezT
+          template: classic
+          base: activity, repositories
+          config_transparent: yes
+
+          # Configuración del plugin de lenguajes
+          plugin_languages: yes
+          plugin_languages_limit: 8
