@@ -67,13 +67,22 @@ I am a student pursuing a double degree in **Mathematics and Computer Engineerin
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Things I've built
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **minishell** | Full bash-like UNIX command interpreter built in C. | `C` `Linux` |
-| **mqm-app** | Microservices-based second-hand e-commerce platform. | `Java` `Spring` `Docker` |
-| **data-projects** | Exploratory data analysis on Spanish Ministry of Education datasets. | `Python` `Pandas` |
+### 🐚 [minishell](https://github.com/DiegoRodriguezT/minishell)
+**C-based UNIX Command Interpreter**  
+Developed a command-line interpreter in C that replicates standard bash behavior. Implemented core operating system concepts including background jobs management, redirections, piped execution and signal handling.
+* **Stack:** `C` `Unix` `Systems` `OS`
+
+### 🛒 [mqm-app](https://github.com/DiegoRodriguezT/mqm-app)
+**Microservices-based e-commerce platform**  
+Developed in a group, this Spring Boot web application implements a fictional second-hand marketplace (without real payments). It features a microservices architecture with REST APIs, JWT authentication via Spring Security, a MySQL database, and Docker containerization. Includes advanced functionalities like a recommendation algorithm, Google Maps Integration, and automated PDF invoice generation.
+* **Stack:** `Spring Boot` `REST API` `Spring Security` `Docker` `Microservices`
+
+### 📊 [data-projects](https://github.com/DiegoRodriguezT/data-projects)
+**Data analysis projects**  
+Central repository for my data science work. Includes the data extraction, cleaning, and exploratory analysis of the Spanish Ministry of Education scholarship records using Python and Pandas, and more projects to come.
+* **Stack:** `Python` `Pandas` `Jupyter` `Data Science`
 
 ---
 
