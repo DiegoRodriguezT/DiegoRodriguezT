@@ -1,13 +1,13 @@
 <div align="center">
   <picture>
     <!-- Light Mode (Dark Text) -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=250&amp;color=gradient&amp;text=Hi,%20I%27m%20Diego%20Rodriguez&amp;textBg=false&amp;fontColor=222222&amp;animation=fadeIn">
     
     <!-- Dark Mode (White Text) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=250&amp;color=gradient&amp;text=Hi,%20I%27m%20Diego%20Rodriguez&amp;textBg=false&amp;animation=fadeIn">
     
     <!-- Fallback -->
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn" width="100%">
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&amp;height=250&amp;color=gradient&amp;text=Hi,%20I%27m%20Diego%20Rodriguez&amp;textBg=false&amp;animation=fadeIn" width="100%">
   </picture>
 </div>
 
