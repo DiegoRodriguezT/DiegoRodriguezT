@@ -1,15 +1,13 @@
-<div align="center">
-  <picture>
-    <!-- Light Mode (Dark Text) -->
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=250&amp;color=gradient&amp;text=Hi,%20I%27m%20Diego%20Rodriguez&amp;textBg=false&amp;fontColor=222222&amp;animation=fadeIn">
-    
-    <!-- Dark Mode (White Text) -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&amp;height=250&amp;color=gradient&amp;text=Hi,%20I%27m%20Diego%20Rodriguez&amp;textBg=false&amp;animation=fadeIn">
-    
-    <!-- Fallback -->
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&amp;height=250&amp;color=gradient&amp;text=Hi,%20I%27m%20Diego%20Rodriguez&amp;textBg=false&amp;animation=fadeIn" width="100%">
-  </picture>
-</div>
+<picture>
+  <!-- Light Mode (Dark Text) -->
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn">
+  
+  <!-- Dark Mode (White Text) -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn">
+  
+  <!-- Fallback -->
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn" width="100%">
+</picture>
 
 <div align="center">
   <h3><i>Where maths meets code.</i></h3>
@@ -37,78 +35,34 @@ I am a student pursuing a double degree in **Mathematics and Computer Engineerin
 
 **Languages**
 <div align="center">
-  <img src="https://cdn.simpleicons.org/python/white#gh-dark-mode-only" height="40" alt="Python" />
-  <img src="https://cdn.simpleicons.org/python/222222#gh-light-mode-only" height="40" alt="Python" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/c/white#gh-dark-mode-only" height="40" alt="C" />
-  <img src="https://cdn.simpleicons.org/c/222222#gh-light-mode-only" height="40" alt="C" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/devicon/java-plain.svg?size=40&color=ffffff#gh-dark-mode-only" height="40" alt="Java" />
-  <img src="https://icongr.am/devicon/java-plain.svg?size=40&color=222222#gh-light-mode-only" height="40" alt="Java" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/typescript/white#gh-dark-mode-only" height="40" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/typescript/222222#gh-light-mode-only" height="40" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/javascript/white#gh-dark-mode-only" height="40" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/javascript/222222#gh-light-mode-only" height="40" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/devicon/csharp-plain.svg?size=40&color=ffffff#gh-dark-mode-only" height="40" alt="C#" />
-  <img src="https://icongr.am/devicon/csharp-plain.svg?size=40&color=222222#gh-light-mode-only" height="40" alt="C#" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/scala/white#gh-dark-mode-only" height="40" alt="Scala" />
-  <img src="https://cdn.simpleicons.org/scala/222222#gh-light-mode-only" height="40" alt="Scala" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://icongr.am/material/owl.svg?size=40&color=ffffff#gh-dark-mode-only" height="40" alt="Prolog" />
-  <img src="https://icongr.am/material/owl.svg?size=40&color=222222#gh-light-mode-only" height="40" alt="Prolog" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/python/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/python/white"><img height="40" src="https://cdn.simpleicons.org/python/white" alt="Python"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/c/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/c/white"><img height="40" src="https://cdn.simpleicons.org/c/white" alt="C"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://icongr.am/devicon/java-plain.svg?size=40&amp;color=222222"><source media="(prefers-color-scheme: dark)" srcset="https://icongr.am/devicon/java-plain.svg?size=40&amp;color=ffffff"><img height="40" src="https://icongr.am/devicon/java-plain.svg?size=40&amp;color=ffffff" alt="Java"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/typescript/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/typescript/white"><img height="40" src="https://cdn.simpleicons.org/typescript/white" alt="TypeScript"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/javascript/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/javascript/white"><img height="40" src="https://cdn.simpleicons.org/javascript/white" alt="JavaScript"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://icongr.am/devicon/csharp-plain.svg?size=40&amp;color=222222"><source media="(prefers-color-scheme: dark)" srcset="https://icongr.am/devicon/csharp-plain.svg?size=40&amp;color=ffffff"><img height="40" src="https://icongr.am/devicon/csharp-plain.svg?size=40&amp;color=ffffff" alt="C#"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/scala/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/scala/white"><img height="40" src="https://cdn.simpleicons.org/scala/white" alt="Scala"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://icongr.am/material/owl.svg?size=40&amp;color=222222"><source media="(prefers-color-scheme: dark)" srcset="https://icongr.am/material/owl.svg?size=40&amp;color=ffffff"><img height="40" src="https://icongr.am/material/owl.svg?size=40&amp;color=ffffff" alt="Prolog"></picture>
 </div>
 
 <br/>
 
 **Frameworks, Tools & Data**
 <div align="center">
-  <img src="https://cdn.simpleicons.org/react/white#gh-dark-mode-only" height="40" alt="React" />
-  <img src="https://cdn.simpleicons.org/react/222222#gh-light-mode-only" height="40" alt="React" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/nextdotjs/white#gh-dark-mode-only" height="40" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/222222#gh-light-mode-only" height="40" alt="Next.js" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/spring/white#gh-dark-mode-only" height="40" alt="Spring" />
-  <img src="https://cdn.simpleicons.org/spring/222222#gh-light-mode-only" height="40" alt="Spring" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/git/white#gh-dark-mode-only" height="40" alt="Git" />
-  <img src="https://cdn.simpleicons.org/git/222222#gh-light-mode-only" height="40" alt="Git" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/docker/white#gh-dark-mode-only" height="40" alt="Docker" />
-  <img src="https://cdn.simpleicons.org/docker/222222#gh-light-mode-only" height="40" alt="Docker" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/linux/white#gh-dark-mode-only" height="40" alt="Linux" />
-  <img src="https://cdn.simpleicons.org/linux/222222#gh-light-mode-only" height="40" alt="Linux" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/mysql/white#gh-dark-mode-only" height="40" alt="MySQL" />
-  <img src="https://cdn.simpleicons.org/mysql/222222#gh-light-mode-only" height="40" alt="MySQL" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/postgresql/white#gh-dark-mode-only" height="40" alt="PostgreSQL" />
-  <img src="https://cdn.simpleicons.org/postgresql/222222#gh-light-mode-only" height="40" alt="PostgreSQL" />
-  
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/react/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/react/white"><img height="40" src="https://cdn.simpleicons.org/react/white" alt="React"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white"><img height="40" src="https://cdn.simpleicons.org/nextdotjs/white" alt="Next.js"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/spring/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/spring/white"><img height="40" src="https://cdn.simpleicons.org/spring/white" alt="Spring"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/git/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/git/white"><img height="40" src="https://cdn.simpleicons.org/git/white" alt="Git"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/docker/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/docker/white"><img height="40" src="https://cdn.simpleicons.org/docker/white" alt="Docker"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linux/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/white"><img height="40" src="https://cdn.simpleicons.org/linux/white" alt="Linux"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/mysql/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/mysql/white"><img height="40" src="https://cdn.simpleicons.org/mysql/white" alt="MySQL"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/postgresql/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/postgresql/white"><img height="40" src="https://cdn.simpleicons.org/postgresql/white" alt="PostgreSQL"></picture>
   <br/> <br/>
-  
-  <img src="https://cdn.simpleicons.org/pandas/white#gh-dark-mode-only" height="40" alt="Pandas" />
-  <img src="https://cdn.simpleicons.org/pandas/222222#gh-light-mode-only" height="40" alt="Pandas" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/numpy/white#gh-dark-mode-only" height="40" alt="NumPy" />
-  <img src="https://cdn.simpleicons.org/numpy/222222#gh-light-mode-only" height="40" alt="NumPy" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/scikitlearn/white#gh-dark-mode-only" height="40" alt="Scikit-learn" />
-  <img src="https://cdn.simpleicons.org/scikitlearn/222222#gh-light-mode-only" height="40" alt="Scikit-learn" /> &nbsp;&nbsp;&nbsp;
- <!-- 
-  <img src="https://icongr.am/simple/matplotlib.svg?size=40&color=ffffff#gh-dark-mode-only" height="40" alt="Matplotlib" />
-  <img src="https://icongr.am/simple/matplotlib.svg?size=40&color=222222#gh-light-mode-only" height="40" alt="Matplotlib" /> &nbsp;&nbsp;&nbsp;
-  -->
-  <img src="https://icongr.am/simple/powerbi.svg?size=40&color=ffffff#gh-dark-mode-only" height="40" alt="Power BI" />
-  <img src="https://icongr.am/simple/powerbi.svg?size=40&color=222222#gh-light-mode-only" height="40" alt="Power BI" /> &nbsp;&nbsp;&nbsp;
-  
-  <img src="https://cdn.simpleicons.org/latex/white#gh-dark-mode-only" height="40" alt="LaTeX" />
-  <img src="https://cdn.simpleicons.org/latex/222222#gh-light-mode-only" height="40" alt="LaTeX" />
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/pandas/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/pandas/white"><img height="40" src="https://cdn.simpleicons.org/pandas/white" alt="Pandas"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/numpy/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/numpy/white"><img height="40" src="https://cdn.simpleicons.org/numpy/white" alt="NumPy"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/scikitlearn/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/scikitlearn/white"><img height="40" src="https://cdn.simpleicons.org/scikitlearn/white" alt="Scikit-learn"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://icongr.am/simple/powerbi.svg?size=40&amp;color=222222"><source media="(prefers-color-scheme: dark)" srcset="https://icongr.am/simple/powerbi.svg?size=40&amp;color=ffffff"><img height="40" src="https://icongr.am/simple/powerbi.svg?size=40&amp;color=ffffff" alt="Power BI"></picture> &nbsp;&nbsp;&nbsp;
+  <picture><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/latex/222222"><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/latex/white"><img height="40" src="https://cdn.simpleicons.org/latex/white" alt="LaTeX"></picture>
 </div>
 
 ---
