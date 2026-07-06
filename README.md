@@ -1,8 +1,14 @@
 <div align="center">
-
-![Header Dark](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&animation=fadeIn#gh-dark-mode-only)
-![Header Light](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn#gh-light-mode-only)
-
+  <picture>
+    <!-- Light Mode (Dark Text) -->
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn">
+    
+    <!-- Dark Mode (White Text) -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn">
+    
+    <!-- Fallback -->
+    <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn" width="100%">
+  </picture>
 </div>
 
 <div align="center">
