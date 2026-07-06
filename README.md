@@ -10,7 +10,7 @@
 </picture>
 
 <div align="center">
-  <h3><i>Where maths meets code.</i></h3>
+  <h3><i>From mathematical theory to building intelligent software</i></h3>
   
   <p align="center">
     <a href="https://portfolio.rdgz.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
