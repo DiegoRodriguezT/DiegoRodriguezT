@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=true" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,8 +7,8 @@
   
   <p align="center">
     <a href="https://portfolio.rdgz.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:tu-email@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:diego@rdgz.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+    <a href="https://linkedin.com/in/diegordguez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   </p>
 </div>
 
