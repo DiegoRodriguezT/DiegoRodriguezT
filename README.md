@@ -1,11 +1,8 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn">
-    
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&animation=fadeIn">
-    
-    <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&animation=fadeIn" width="100%">
-  </picture>
+
+![Header Dark](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&animation=fadeIn#gh-dark-mode-only)
+![Header Light](https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi,%20I'm%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn#gh-light-mode-only)
+
 </div>
 
 <div align="center">
