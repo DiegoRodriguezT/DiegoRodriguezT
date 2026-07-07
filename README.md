@@ -13,9 +13,11 @@
   <h3><i>From mathematical theory to building intelligent software</i></h3>
   
   <p align="center">
-    <a href="https://portfolio.rdgz.dev"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-    <a href="mailto:diego@rdgz.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-    <a href="https://linkedin.com/in/diegordguez"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:diego@rdgz.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&amp;logo=lu%3AGlobe&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&amp;logo=lu%3AGlobe&amp;mode=light"></picture></a>
+    <a href="mailto:diego@rdgz.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Email.svg?variant=secondary&amp;logo=lu%3AMail&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Email.svg?variant=secondary&amp;logo=lu%3AMail&amp;mode=light"></picture></a>
+    <a href="https://linkedin.com/in/diegordguez"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&amp;logo=ri%3AFaLinkedinIn&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&amp;logo=ri%3AFaLinkedinIn&amp;mode=light"></picture></a>
+    <br>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/flag/es.svg?mode=dark"><img alt="Built in Spain" src="https://shieldcn.dev/flag/es.svg?mode=light"></picture>
   </p>
 </div>
 
@@ -84,6 +86,7 @@ Developed in a group, this Spring Boot web application implements a fictional se
 Central repository for my data science work. Includes the data extraction, cleaning, and exploratory analysis of the Spanish Ministry of Education scholarship records using Python and Pandas, and more projects to come.
 * **Stack:** `Python` `Pandas` `Jupyter` `Data Science`
 
+<!--
 ---
 
 ## 📊 Overview
@@ -91,3 +94,4 @@ Central repository for my data science work. Includes the data extraction, clean
 <div align="center">
   <img src="./github-metrics.svg" width="70%" alt="GitHub Metrics" />
 </div>
+-->
