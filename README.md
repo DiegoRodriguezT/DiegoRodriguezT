@@ -1,19 +1,19 @@
 <picture>
   <!-- Light Mode (Dark Text) -->
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodriguez&textBg=false&fontColor=222222&animation=fadeIn">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&width=1500&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodríguez&textBg=false&fontColor=222222&animation=fadeIn" height=250>
   
   <!-- Dark Mode (White Text) -->
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&width=1500&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodríguez&textBg=false&animation=fadeIn" height=250>
   
   <!-- Fallback -->
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodriguez&textBg=false&animation=fadeIn" width="100%">
+  <img alt="Header" src="https://capsule-render.vercel.app/api?type=blur&width=1500&height=250&color=gradient&text=Hi%2C%20I%27m%20Diego%20Rodríguez&textBg=false&animation=fadeIn" width="100%" height=250>
 </picture>
 
 <div align="center">
   <h3><i>From mathematical theory to building intelligent software</i></h3>
   
   <p align="center">
-    <a href="mailto:diego@rdgz.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&amp;logo=lu%3AGlobe&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&amp;logo=lu%3AGlobe&amp;mode=light"></picture></a>
+    <a href="https://rdgz.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&amp;logo=lu%3AGlobe&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Portfolio.svg?variant=secondary&amp;logo=lu%3AGlobe&amp;mode=light"></picture></a>
     <a href="mailto:diego@rdgz.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Email.svg?variant=secondary&amp;logo=lu%3AMail&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/Email.svg?variant=secondary&amp;logo=lu%3AMail&amp;mode=light"></picture></a>
     <a href="https://linkedin.com/in/diegordguez"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&amp;logo=ri%3AFaLinkedinIn&amp;mode=dark"><img alt="badge" src="https://shieldcn.dev/badge/LinkedIn.svg?variant=secondary&amp;logo=ri%3AFaLinkedinIn&amp;mode=light"></picture></a>
     <br>
