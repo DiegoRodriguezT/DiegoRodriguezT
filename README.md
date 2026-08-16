@@ -25,11 +25,11 @@
 
 ## 👨‍💻 About Me
 
-I am a student pursuing a double degree in **Mathematics and Computer Engineering** at **Universidad Rey Juan Carlos (URJC)**. I'm passionate about bridging mathematical theory with practical, intelligent software.
+I am a student pursuing a double degree in **Mathematics and Computer Engineering** at **Universidad Rey Juan Carlos (URJC)**. I'm passionate about bridging mathematical theory with intelligent software.
 
 - 🎓 Expected graduation: **2028**.
-- 💡 Focused on: **Software Engineering, Data Science, and Machine Learning**.
-- 🎯 Currently looking for internships and open to collaborations.
+- 💡 Focused on: **Software Engineering, Data Science and Machine Learning**.
+- 🔎 Currently looking for internships and open to collaborations.
 
 ---
 
@@ -69,7 +69,15 @@ I am a student pursuing a double degree in **Mathematics and Computer Engineerin
 
 ---
 
-## 🚀 Things I've built
+## 🚀 Projects
+
+### 📊 [data-projects](https://github.com/DiegoRodriguezT/data-projects)
+**Data Science & Machine Learning projects**  
+A collection of my data science projects, covering machine learning and data analysis.
+* **Projects:**
+  * 💰 [Spanish Salary Prediction](https://github.com/DiegoRodriguezT/data-projects/tree/main/salary_prediction_model) — End-to-end machine learning project for predicting annual gross salaries of Spanish workers using real-world INE data, from exploratory data analysis and feature engineering to model selection and XGBoost optimization.
+  * 🎓 [MEC Scholarship Analysis](https://github.com/DiegoRodriguezT/data-projects/tree/main/mec_scholarship_analysis) — Data extraction, cleaning, and exploratory analysis of the Spanish Ministry of Education scholarship records using Python and Pandas.
+* **Stack:** <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Python-222222?style=flat&logo=python&logoColor=white"><img src="https://shieldcn.dev/badge/Python-f5f5f5?style=flat&logo=python&logoColor=222222" align="absmiddle" alt="Python"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Pandas-222222?style=flat&logo=pandas&logoColor=white"><img src="https://shieldcn.dev/badge/Pandas-f5f5f5?style=flat&logo=pandas&logoColor=222222" align="absmiddle" alt="Pandas"></picture>  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/NumPy-222222?style=flat&logo=numpy&logoColor=white"><img src="https://shieldcn.dev/badge/NumPy-f5f5f5?style=flat&logo=numpy&logoColor=222222" align="absmiddle" alt="NumPy"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/scikit--learn-222222?style=flat&logo=scikitlearn&logoColor=white"><img src="https://shieldcn.dev/badge/scikit--learn-f5f5f5?style=flat&logo=scikitlearn&logoColor=222222" align="absmiddle" alt="scikit-learn"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Matplotlib-222222?style=flat&logo=matplotlib&logoColor=white"><img src="https://shieldcn.dev/badge/Matplotlib-f5f5f5?style=flat&logo=matplotlib&logoColor=222222" align="absmiddle" alt="Matplotlib"></picture>  <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/XGBoost-222222?style=flat&logo=xgboost&logoColor=white"><img src="https://shieldcn.dev/badge/XGBoost-f5f5f5?style=flat&logo=xgboost&logoColor=222222" align="absmiddle" alt="XGBoost"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Data_Science-222222?style=flat"><img src="https://shieldcn.dev/badge/Data_Science-f5f5f5?style=flat" align="absmiddle" alt="Data Science"></picture>
 
 ### 🐚 [minishell](https://github.com/DiegoRodriguezT/minishell)
 **C-based UNIX Command Interpreter**  
@@ -80,11 +88,6 @@ Developed a command-line interpreter in C that replicates standard bash behavior
 **Microservices-based e-commerce platform**  
 Developed in a group, this Spring Boot web application implements a fictional second-hand marketplace (without real payments). It features a microservices architecture with REST APIs, JWT authentication via Spring Security, a MySQL database, and Docker containerization. Includes advanced functionalities like a recommendation algorithm, Google Maps Integration, and automated PDF invoice generation.
 * **Stack:** <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Spring_Boot-222222?style=flat&logo=springboot&logoColor=white"><img src="https://shieldcn.dev/badge/Spring_Boot-f5f5f5?style=flat&logo=springboot&logoColor=222222" align="absmiddle" alt="Spring Boot"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/MySQL-222222?style=flat&logo=mysql&logoColor=white"><img src="https://shieldcn.dev/badge/MySQL-f5f5f5?style=flat&logo=mysql&logoColor=222222" align="absmiddle" alt="MySQL"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/REST_API-222222?style=flat&logo=ri:TbApi&logoColor=white"><img src="https://shieldcn.dev/badge/REST_API-f5f5f5?style=flat&logo=ri:TbApi&logoColor=222222" align="absmiddle" alt="REST API"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Spring_Security-222222?style=flat&logo=ri:PiSecurityCamera&logoColor=white"><img src="https://shieldcn.dev/badge/Spring_Security-f5f5f5?style=flat&logo=ri:PiSecurityCamera&logoColor=222222" align="absmiddle" alt="Spring Security"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Docker-222222?style=flat&logo=docker&logoColor=white"><img src="https://shieldcn.dev/badge/Docker-f5f5f5?style=flat&logo=docker&logoColor=222222" align="absmiddle" alt="Docker"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Microservices-222222?style=flat"><img src="https://shieldcn.dev/badge/Microservices-f5f5f5?style=flat" align="absmiddle" alt="Microservices"></picture>
-
-### 📊 [data-projects](https://github.com/DiegoRodriguezT/data-projects)
-**Data analysis projects**  
-Central repository for my data science work. Includes the data extraction, cleaning, and exploratory analysis of the Spanish Ministry of Education scholarship records using Python and Pandas, and more projects to come.
-* **Stack:** <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Python-222222?style=flat&logo=python&logoColor=white"><img src="https://shieldcn.dev/badge/Python-f5f5f5?style=flat&logo=python&logoColor=222222" align="absmiddle" alt="Python"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Pandas-222222?style=flat&logo=pandas&logoColor=white"><img src="https://shieldcn.dev/badge/Pandas-f5f5f5?style=flat&logo=pandas&logoColor=222222" align="absmiddle" alt="Pandas"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Jupyter-222222?style=flat&logo=jupyter&logoColor=white"><img src="https://shieldcn.dev/badge/Jupyter-f5f5f5?style=flat&logo=jupyter&logoColor=222222" align="absmiddle" alt="Jupyter"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Matplotlib-222222?style=flat&logo=matplotlib&logoColor=white"><img src="https://shieldcn.dev/badge/Matplotlib-f5f5f5?style=flat&logo=matplotlib&logoColor=222222" align="absmiddle" alt="Matplotlib"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/Data_Science-222222?style=flat"><img src="https://shieldcn.dev/badge/Data_Science-f5f5f5?style=flat" align="absmiddle" alt="Data Science"></picture>
 
 <!--
 ---
