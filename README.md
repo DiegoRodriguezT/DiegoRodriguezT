@@ -25,11 +25,9 @@
 
 ## 👨‍💻 About Me
 
-I am a student pursuing a double degree in **Mathematics and Computer Engineering** at **Universidad Rey Juan Carlos (URJC)**. I'm passionate about bridging mathematical theory with intelligent software.
+I am a student pursuing a double degree in **Mathematics and Computer Engineering** at **Universidad Rey Juan Carlos (URJC)**. I'm passionate about combining mathematical theory with software engineering and data-driven applications. My interests include **Software Engineering, Data Science and Machine Learning**. 
 
-- 🎓 Expected graduation: **2028**.
-- 💡 Focused on: **Software Engineering, Data Science and Machine Learning**.
-- 🔎 Currently looking for internships and open to collaborations.
+Currently, I'm looking for internships opportunities in Madrid. I expect to graduate in June 2028.
 
 ---
 
